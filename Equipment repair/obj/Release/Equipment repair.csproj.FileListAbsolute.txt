@@ -1,0 +1,12 @@
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Release\Database.accdb
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Release\Equipment repair.exe.config
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Release\Equipment repair.exe
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Release\Equipment repair.pdb
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment repair.csproj.AssemblyReference.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment_repair.FormApplications.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment_repair.Menu.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment_repair.Properties.Resources.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment repair.csproj.GenerateResource.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment repair.csproj.CoreCompileInputs.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment repair.exe
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Release\Equipment repair.pdb

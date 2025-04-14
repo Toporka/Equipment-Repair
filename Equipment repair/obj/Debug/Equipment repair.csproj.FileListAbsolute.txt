@@ -1,0 +1,21 @@
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment repair.csproj.AssemblyReference.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormApplications.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.Menu.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.Properties.Resources.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment repair.csproj.GenerateResource.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment repair.csproj.CoreCompileInputs.cache
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Debug\Equipment repair.exe.config
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Debug\Equipment repair.exe
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Debug\Equipment repair.pdb
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment repair.exe
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment repair.pdb
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormUsers.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormRegistration.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormWorkers.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormReports.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.Analysis.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormlStatisticFails.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.FormlStatisticApplications.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.Cheque.resources
+D:\Kods\C#\SECOND_KYK\Equipment repair\bin\Debug\Database.accdb
+D:\Kods\C#\SECOND_KYK\Equipment repair\obj\Debug\Equipment_repair.LoginPassword.resources
